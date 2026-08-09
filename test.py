@@ -1,1 +1,1 @@
-Print("This is a test for email notify")
+print("This is a test for email notify")
